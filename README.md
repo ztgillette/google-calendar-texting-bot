@@ -5,3 +5,5 @@ Uses Google Calendar's API and a free texting service to scrape events from user
 ## Installation
 
 Code is not yet ready for public use. Please check back soon!
+
+ztgillette@gmail.com
